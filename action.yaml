@@ -3,5 +3,5 @@ runs:
   using: "composite"
   steps:
     - name: Hello World
-      run: echo "Hello World"
+      run: echo "Hello Test"
       shell: bash
